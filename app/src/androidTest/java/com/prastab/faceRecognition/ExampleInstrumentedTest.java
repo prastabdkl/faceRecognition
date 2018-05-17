@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.anup.faceRecognition", appContext.getPackageName());
+        assertEquals("com.prastab.faceRecognition", appContext.getPackageName());
     }
 }
