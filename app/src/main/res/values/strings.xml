@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart Unlock</string>
+    <string name="title_enroll">Enroll</string>
+    <string name="title_verify">Verify</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="app_settings">Settings</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="list_images">List</string>
+</resources>
